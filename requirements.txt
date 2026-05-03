@@ -1,3 +1,5 @@
+streamlit
+
 #utilities :-
 numpy
 pandas
@@ -18,4 +20,7 @@ bcrypt
 segno
 pillow
 
-streamlit
+
+# library for voice recognition
+librosa
+resemblyzer 
